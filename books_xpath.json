@@ -62,29 +62,10 @@
     { "title": "It's Only the Himalayas", "price": "£45.17", "rating": "Two" }
   ],
   "performance_metrics": [
-    {
-      "iteration": 1,
-      "scraping_time": 0.10737371444702148,
-      "cpu_usage_percent": 0.1,
-      "memory_usage_mb": 72.51953125
-    },
-    {
-      "iteration": 2,
-      "scraping_time": 0.11136746406555176,
-      "cpu_usage_percent": 0.1,
-      "memory_usage_mb": 72.5234375
-    },
-    {
-      "iteration": 3,
-      "scraping_time": 0.10578703880310059,
-      "cpu_usage_percent": 8.4,
-      "memory_usage_mb": 72.5234375
-    }
+    { "iteration": 1, "scraping_time": 0.008129358291625977 },
+    { "iteration": 2, "scraping_time": 0.0019979476928710938 },
+    { "iteration": 3, "scraping_time": 0.0031774044036865234 }
   ],
-  "averages": {
-    "avg_scraping_time": 0.10817607243855794,
-    "avg_cpu_usage_percent": 2.8666666666666667,
-    "avg_memory_usage_mb": 72.52213541666667
-  },
+  "averages": { "avg_scraping_time": 0.004434903462727864 },
   "iterations": 3
 }
