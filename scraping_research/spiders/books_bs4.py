@@ -1,9 +1,10 @@
 import scrapy
 import time
 import json
+from bs4 import BeautifulSoup
 
-class BooksXPathSpider(scrapy.Spider):
-    name = 'books_xpath'
+class BooksBS4Spider(scrapy.Spider):
+    name = 'books_bs4'
     start_urls = ['http://books.toscrape.com/']
 
     def parse(self, response):
@@ -11,13 +12,15 @@ class BooksXPathSpider(scrapy.Spider):
         data = []
         performance_metrics = []
 
+        soup = BeautifulSoup(response.text, 'html.parser')
+
         for i in range(iterations):
             start_time = time.time()
 
-            for book in response.xpath('//article[@class="product_pod"]'):
-                title = book.xpath('.//h3/a/@title').get()
-                price = book.xpath('.//p[@class="price_color"]/text()').get()
-                rating = book.xpath('.//p[contains(@class, "star-rating")]/@class').get().replace('star-rating ', '')
+            for book in soup.find_all('article', class_='product_pod'):
+                title = book.find('h3').find('a')['title']
+                price = book.find('p', class_='price_color').get_text()
+                rating = book.find('p', class_='star-rating')['class'][1]
 
                 if i == 0:
                     data.append({
@@ -34,11 +37,9 @@ class BooksXPathSpider(scrapy.Spider):
                 'scraping_time': adjusted_time
             })
 
-        # Calculate average scraping time
         avg_time = sum(metric['scraping_time'] for metric in performance_metrics) / iterations
 
-        # Save to JSON
-        with open('books_xpath.json', 'w', encoding='utf-8') as f:
+        with open('books_bs4.json', 'w', encoding='utf-8') as f:
             json.dump({
                 'data': data,
                 'performance_metrics': performance_metrics,
