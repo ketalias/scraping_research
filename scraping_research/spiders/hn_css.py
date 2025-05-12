@@ -14,16 +14,14 @@ class HNCSSSpider(scrapy.Spider):
         for i in range(iterations):
             start_time = time.time()
 
-            # Get all tr.athing elements
             items = response.css('tr.athing')
             subtext_rows = response.css('td.subtext span.subline')
             
             for index, item in enumerate(items):
                 title = item.css('span.titleline a::text').get()
                 url = item.css('span.titleline a::attr(href)').get()
-                # Access the corresponding td.subtext span.subline using index
                 if index >= len(subtext_rows):
-                    continue  # Skip if no corresponding subtext row
+                    continue
                 subtext = subtext_rows[index]
                 score = subtext.css('span.score::text').get()
                 author = subtext.css('a.hnuser::text').get()
@@ -46,10 +44,8 @@ class HNCSSSpider(scrapy.Spider):
                 'scraping_time': adjusted_time
             })
 
-        # Calculate average scraping time
         avg_time = sum(metric['scraping_time'] for metric in performance_metrics) / iterations
 
-        # Save to JSON
         with open('hn_css.json', 'w', encoding='utf-8') as f:
             json.dump({
                 'data': data,

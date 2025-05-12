@@ -39,10 +39,8 @@ class HNXPathSpider(scrapy.Spider):
                 'scraping_time': adjusted_time
             })
 
-        # Calculate average scraping time
         avg_time = sum(metric['scraping_time'] for metric in performance_metrics) / iterations
 
-        # Save to JSON
         with open('hn_xpath.json', 'w', encoding='utf-8') as f:
             json.dump({
                 'data': data,

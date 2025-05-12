@@ -12,28 +12,24 @@ class HNBS4Spider(scrapy.Spider):
         data = []
         performance_metrics = []
 
-        # Create BeautifulSoup object
         soup = BeautifulSoup(response.text, 'html.parser')
 
         for i in range(iterations):
             start_time = time.time()
 
-            # Find all tr.athing elements
             items = soup.find_all('tr', class_='athing')
             for item in items:
-                # Extract title and URL from span.titleline a
                 titleline = item.find('span', class_='titleline')
                 if not titleline or not titleline.find('a'):
-                    continue  # Skip if titleline or link is missing
+                    continue  
                 title = titleline.find('a').get_text()
                 url = titleline.find('a')['href']
-                # Find the next tr's td.subtext span.subline
                 next_tr = item.find_next_sibling('tr')
                 if not next_tr:
-                    continue  # Skip if next tr is missing
+                    continue  
                 subtext = next_tr.find('td', class_='subtext')
                 if not subtext or not subtext.find('span', class_='subline'):
-                    continue  # Skip if subtext or subline is missing
+                    continue 
                 subtext = subtext.find('span', class_='subline')
                 score = subtext.find('span', class_='score').get_text() if subtext.find('span', class_='score') else None
                 author = subtext.find('a', class_='hnuser').get_text() if subtext.find('a', class_='hnuser') else None
