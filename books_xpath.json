@@ -1,15 +1,35 @@
 {
   "data": [
-    { "title": "A Light in the Attic", "price": "£51.77", "rating": "Three" },
-    { "title": "Tipping the Velvet", "price": "£53.74", "rating": "One" },
-    { "title": "Soumission", "price": "£50.10", "rating": "One" },
-    { "title": "Sharp Objects", "price": "£47.82", "rating": "Four" },
+    {
+      "title": "A Light in the Attic",
+      "price": "£51.77",
+      "rating": "Three"
+    },
+    {
+      "title": "Tipping the Velvet",
+      "price": "£53.74",
+      "rating": "One"
+    },
+    {
+      "title": "Soumission",
+      "price": "£50.10",
+      "rating": "One"
+    },
+    {
+      "title": "Sharp Objects",
+      "price": "£47.82",
+      "rating": "Four"
+    },
     {
       "title": "Sapiens: A Brief History of Humankind",
       "price": "£54.23",
       "rating": "Five"
     },
-    { "title": "The Requiem Red", "price": "£22.65", "rating": "One" },
+    {
+      "title": "The Requiem Red",
+      "price": "£22.65",
+      "rating": "One"
+    },
     {
       "title": "The Dirty Little Secrets of Getting Your Dream Job",
       "price": "£33.34",
@@ -25,14 +45,26 @@
       "price": "£22.60",
       "rating": "Four"
     },
-    { "title": "The Black Maria", "price": "£52.15", "rating": "One" },
+    {
+      "title": "The Black Maria",
+      "price": "£52.15",
+      "rating": "One"
+    },
     {
       "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
       "price": "£13.99",
       "rating": "Two"
     },
-    { "title": "Shakespeare's Sonnets", "price": "£20.66", "rating": "Four" },
-    { "title": "Set Me Free", "price": "£17.46", "rating": "Five" },
+    {
+      "title": "Shakespeare's Sonnets",
+      "price": "£20.66",
+      "rating": "Four"
+    },
+    {
+      "title": "Set Me Free",
+      "price": "£17.46",
+      "rating": "Five"
+    },
     {
       "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
       "price": "£52.29",
@@ -48,7 +80,11 @@
       "price": "£57.25",
       "rating": "Three"
     },
-    { "title": "Olio", "price": "£23.88", "rating": "One" },
+    {
+      "title": "Olio",
+      "price": "£23.88",
+      "rating": "One"
+    },
     {
       "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
       "price": "£37.59",
@@ -59,13 +95,416 @@
       "price": "£51.33",
       "rating": "Two"
     },
-    { "title": "It's Only the Himalayas", "price": "£45.17", "rating": "Two" }
+    {
+      "title": "It's Only the Himalayas",
+      "price": "£45.17",
+      "rating": "Two"
+    }
   ],
   "performance_metrics": [
-    { "iteration": 1, "scraping_time": 0.008129358291625977 },
-    { "iteration": 2, "scraping_time": 0.0019979476928710938 },
-    { "iteration": 3, "scraping_time": 0.0031774044036865234 }
+    {
+      "iteration": 1,
+      "scraping_time": 0.008067400194704533
+    },
+    {
+      "iteration": 2,
+      "scraping_time": 0.0027830000035464764
+    },
+    {
+      "iteration": 3,
+      "scraping_time": 0.0027588000521063805
+    },
+    {
+      "iteration": 4,
+      "scraping_time": 0.0027840000111609697
+    },
+    {
+      "iteration": 5,
+      "scraping_time": 0.002542999805882573
+    },
+    {
+      "iteration": 6,
+      "scraping_time": 0.0021931000519543886
+    },
+    {
+      "iteration": 7,
+      "scraping_time": 0.0018899999558925629
+    },
+    {
+      "iteration": 8,
+      "scraping_time": 0.0017121999990195036
+    },
+    {
+      "iteration": 9,
+      "scraping_time": 0.0014899000525474548
+    },
+    {
+      "iteration": 10,
+      "scraping_time": 0.0014998998958617449
+    },
+    {
+      "iteration": 11,
+      "scraping_time": 0.0015099002048373222
+    },
+    {
+      "iteration": 12,
+      "scraping_time": 0.0015465000178664923
+    },
+    {
+      "iteration": 13,
+      "scraping_time": 0.0017371000722050667
+    },
+    {
+      "iteration": 14,
+      "scraping_time": 0.0016629998572170734
+    },
+    {
+      "iteration": 15,
+      "scraping_time": 0.0015809000469744205
+    },
+    {
+      "iteration": 16,
+      "scraping_time": 0.001690099947154522
+    },
+    {
+      "iteration": 17,
+      "scraping_time": 0.00174840004183352
+    },
+    {
+      "iteration": 18,
+      "scraping_time": 0.001894799992442131
+    },
+    {
+      "iteration": 19,
+      "scraping_time": 0.0021134999115020037
+    },
+    {
+      "iteration": 20,
+      "scraping_time": 0.002157399896532297
+    },
+    {
+      "iteration": 21,
+      "scraping_time": 0.003502800129354
+    },
+    {
+      "iteration": 22,
+      "scraping_time": 0.0026259999722242355
+    },
+    {
+      "iteration": 23,
+      "scraping_time": 0.0022495000157505274
+    },
+    {
+      "iteration": 24,
+      "scraping_time": 0.00209650001488626
+    },
+    {
+      "iteration": 25,
+      "scraping_time": 0.0016429000534117222
+    },
+    {
+      "iteration": 26,
+      "scraping_time": 0.0015136001165956259
+    },
+    {
+      "iteration": 27,
+      "scraping_time": 0.001473400043323636
+    },
+    {
+      "iteration": 28,
+      "scraping_time": 0.0015038000419735909
+    },
+    {
+      "iteration": 29,
+      "scraping_time": 0.0015841999556869268
+    },
+    {
+      "iteration": 30,
+      "scraping_time": 0.0019547000993043184
+    },
+    {
+      "iteration": 31,
+      "scraping_time": 0.001638100016862154
+    },
+    {
+      "iteration": 32,
+      "scraping_time": 0.0018421998247504234
+    },
+    {
+      "iteration": 33,
+      "scraping_time": 0.0016220000106841326
+    },
+    {
+      "iteration": 34,
+      "scraping_time": 0.0015858998522162437
+    },
+    {
+      "iteration": 35,
+      "scraping_time": 0.0016856000293046236
+    },
+    {
+      "iteration": 36,
+      "scraping_time": 0.001951900077983737
+    },
+    {
+      "iteration": 37,
+      "scraping_time": 0.002171299885958433
+    },
+    {
+      "iteration": 38,
+      "scraping_time": 0.002680199919268489
+    },
+    {
+      "iteration": 39,
+      "scraping_time": 0.0022987998090684414
+    },
+    {
+      "iteration": 40,
+      "scraping_time": 0.0023925001733005047
+    },
+    {
+      "iteration": 41,
+      "scraping_time": 0.002076299861073494
+    },
+    {
+      "iteration": 42,
+      "scraping_time": 0.0018395001534372568
+    },
+    {
+      "iteration": 43,
+      "scraping_time": 0.0016314000822603703
+    },
+    {
+      "iteration": 44,
+      "scraping_time": 0.0014976998791098595
+    },
+    {
+      "iteration": 45,
+      "scraping_time": 0.00147280003875494
+    },
+    {
+      "iteration": 46,
+      "scraping_time": 0.0015238001942634583
+    },
+    {
+      "iteration": 47,
+      "scraping_time": 0.0014977999962866306
+    },
+    {
+      "iteration": 48,
+      "scraping_time": 0.0015398000832647085
+    },
+    {
+      "iteration": 49,
+      "scraping_time": 0.001455900026485324
+    },
+    {
+      "iteration": 50,
+      "scraping_time": 0.0014816999901086092
+    },
+    {
+      "iteration": 51,
+      "scraping_time": 0.0014744000509381294
+    },
+    {
+      "iteration": 52,
+      "scraping_time": 0.0015008999034762383
+    },
+    {
+      "iteration": 53,
+      "scraping_time": 0.0014812001027166843
+    },
+    {
+      "iteration": 54,
+      "scraping_time": 0.0014933000784367323
+    },
+    {
+      "iteration": 55,
+      "scraping_time": 0.001477900194004178
+    },
+    {
+      "iteration": 56,
+      "scraping_time": 0.001474000047892332
+    },
+    {
+      "iteration": 57,
+      "scraping_time": 0.0017458999063819647
+    },
+    {
+      "iteration": 58,
+      "scraping_time": 0.0015631001442670822
+    },
+    {
+      "iteration": 59,
+      "scraping_time": 0.0014895000495016575
+    },
+    {
+      "iteration": 60,
+      "scraping_time": 0.0014657999854534864
+    },
+    {
+      "iteration": 61,
+      "scraping_time": 0.0014677001163363457
+    },
+    {
+      "iteration": 62,
+      "scraping_time": 0.0014788000844419003
+    },
+    {
+      "iteration": 63,
+      "scraping_time": 0.0015539000742137432
+    },
+    {
+      "iteration": 64,
+      "scraping_time": 0.0018518001306802034
+    },
+    {
+      "iteration": 65,
+      "scraping_time": 0.001966699957847595
+    },
+    {
+      "iteration": 66,
+      "scraping_time": 0.0021265000104904175
+    },
+    {
+      "iteration": 67,
+      "scraping_time": 0.0020401999354362488
+    },
+    {
+      "iteration": 68,
+      "scraping_time": 0.0019771000370383263
+    },
+    {
+      "iteration": 69,
+      "scraping_time": 0.001996000064536929
+    },
+    {
+      "iteration": 70,
+      "scraping_time": 0.0018541000317782164
+    },
+    {
+      "iteration": 71,
+      "scraping_time": 0.001639900030568242
+    },
+    {
+      "iteration": 72,
+      "scraping_time": 0.0015245999675244093
+    },
+    {
+      "iteration": 73,
+      "scraping_time": 0.0015631001442670822
+    },
+    {
+      "iteration": 74,
+      "scraping_time": 0.0014804000966250896
+    },
+    {
+      "iteration": 75,
+      "scraping_time": 0.0015761998947709799
+    },
+    {
+      "iteration": 76,
+      "scraping_time": 0.0015104999765753746
+    },
+    {
+      "iteration": 77,
+      "scraping_time": 0.002023800043389201
+    },
+    {
+      "iteration": 78,
+      "scraping_time": 0.00223249988630414
+    },
+    {
+      "iteration": 79,
+      "scraping_time": 0.0016079000197350979
+    },
+    {
+      "iteration": 80,
+      "scraping_time": 0.0016328999772667885
+    },
+    {
+      "iteration": 81,
+      "scraping_time": 0.0018942998722195625
+    },
+    {
+      "iteration": 82,
+      "scraping_time": 0.002257399959489703
+    },
+    {
+      "iteration": 83,
+      "scraping_time": 0.003011499997228384
+    },
+    {
+      "iteration": 84,
+      "scraping_time": 0.0027218000032007694
+    },
+    {
+      "iteration": 85,
+      "scraping_time": 0.0027218000032007694
+    },
+    {
+      "iteration": 86,
+      "scraping_time": 0.002427200088277459
+    },
+    {
+      "iteration": 87,
+      "scraping_time": 0.0026328000240027905
+    },
+    {
+      "iteration": 88,
+      "scraping_time": 0.001824100036174059
+    },
+    {
+      "iteration": 89,
+      "scraping_time": 0.0016540000215172768
+    },
+    {
+      "iteration": 90,
+      "scraping_time": 0.0017275998834520578
+    },
+    {
+      "iteration": 91,
+      "scraping_time": 0.0015255000907927752
+    },
+    {
+      "iteration": 92,
+      "scraping_time": 0.0015070999506860971
+    },
+    {
+      "iteration": 93,
+      "scraping_time": 0.0015392000786960125
+    },
+    {
+      "iteration": 94,
+      "scraping_time": 0.0015507000498473644
+    },
+    {
+      "iteration": 95,
+      "scraping_time": 0.0014724000357091427
+    },
+    {
+      "iteration": 96,
+      "scraping_time": 0.0015025998000055552
+    },
+    {
+      "iteration": 97,
+      "scraping_time": 0.0014717001467943192
+    },
+    {
+      "iteration": 98,
+      "scraping_time": 0.0014944998547434807
+    },
+    {
+      "iteration": 99,
+      "scraping_time": 0.0014539000112563372
+    },
+    {
+      "iteration": 100,
+      "scraping_time": 0.0015847999602556229
+    }
   ],
-  "averages": { "avg_scraping_time": 0.004434903462727864 },
-  "iterations": 3
+  "averages": {
+    "avg_scraping_time": 0.0018964100116863848
+  },
+  "iterations": 100
 }
