@@ -1,221 +1,620 @@
 {
   "data": [
     {
-      "title": "Title of work deciphered in sealed Herculaneum scroll via digital unwrapping",
-      "url": "https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping",
-      "score": "50 points",
-      "author": "namanyayg",
-      "comments": "1 hour ago"
-    },
-    {
-      "title": "The most valuable commodity in the world is friction",
-      "url": "https://kyla.substack.com/p/the-most-valuable-commodity-in-the",
-      "score": "56 points",
-      "author": "walterbell",
-      "comments": "3 hours ago"
-    },
-    {
-      "title": "Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse",
-      "url": "https://github.com/glassflow/clickhouse-etl",
-      "score": "31 points",
-      "author": "super_ar",
+      "title": "A community-led fork of Organic Maps",
+      "url": "https://www.comaps.app/news/2025-05-12/3/",
+      "score": "130 points",
+      "author": "maelito",
       "comments": "2 hours ago"
     },
     {
-      "title": "The Epochalypse Project",
-      "url": "https://epochalypse-project.org/",
-      "score": "107 points",
-      "author": "maxeda",
-      "comments": "5 hours ago"
-    },
-    {
-      "title": "A Rust Documentation Ecosystem Review",
-      "url": "https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/",
-      "score": "39 points",
-      "author": "hyperbrainer",
-      "comments": "3 hours ago"
-    },
-    {
-      "title": "Gonzalo Guerrero",
-      "url": "https://en.wikipedia.org/wiki/Gonzalo_Guerrero",
-      "score": "4 points",
-      "author": "akkartik",
-      "comments": "43 minutes ago"
-    },
-    {
-      "title": "In 2025, venture capital can't pretend everything is fine any more",
-      "url": "https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/",
-      "score": "88 points",
-      "author": "namanyayg",
-      "comments": "1 hour ago"
-    },
-    {
-      "title": "An Introduction to Solid Queue for Ruby on Rails",
-      "url": "https://blog.appsignal.com/2025/05/07/an-introduction-to-solid-queue-for-ruby-on-rails.html",
-      "score": "61 points",
-      "author": "amalinovic",
-      "comments": "6 hours ago"
-    },
-    {
-      "title": "Is there a balance to be struck between simple hierarchical models and",
-      "url": "https://statmodeling.stat.columbia.edu/2024/05/26/is-there-a-balance-to-be-struck-between-simple-hierarchical-models-and-more-complex-hierarchical-models-that-augment-the-simple-frameworks-with-more-modeled-interactions-when-analyzing-real-data/",
-      "score": "7 points",
-      "author": "luu",
+      "title": "University of Texas-led team solves a big problem for fusion energy",
+      "url": "https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/",
+      "score": "70 points",
+      "author": "signa11",
       "comments": "2 hours ago"
     },
     {
-      "title": "Leaving Google",
-      "url": "https://www.airs.com/blog/archives/670",
-      "score": "207 points",
+      "title": "Ruby 3.5 Feature: Namespace on read",
+      "url": "https://bugs.ruby-lang.org/issues/21311",
+      "score": "26 points",
+      "author": "ksec",
+      "comments": "58 minutes ago"
+    },
+    {
+      "title": "Spade Hardware Description Language",
+      "url": "https://spade-lang.org/",
+      "score": "41 points",
+      "author": "spmcl",
+      "comments": "2 hours ago"
+    },
+    {
+      "title": "Plain Vanilla Web",
+      "url": "https://plainvanillaweb.com/index.html",
+      "score": "1244 points",
+      "author": "andrewrn",
+      "comments": "22 hours ago"
+    },
+    {
+      "title": "I ruined my vacation by reverse engineering WSC",
+      "url": "https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/",
+      "score": "269 points",
       "author": "todsacerdoti",
-      "comments": "12 hours ago"
+      "comments": "11 hours ago"
     },
     {
-      "title": "Four years of running a SaaS in a competitive market",
-      "url": "https://maxrozen.com/on-four-years-running-saas-competitive-market",
-      "score": "152 points",
-      "author": "mtlynch",
-      "comments": "3 hours ago"
+      "title": "A crypto founder faked his death. We found him alive at his dad's house",
+      "url": "https://sfstandard.com/2025/05/08/jeffy-yu-zerebro-fake-death/",
+      "score": "117 points",
+      "author": "bathtub365",
+      "comments": "1 hour ago"
     },
     {
-      "title": "Roame (YC S23) Is Hiring Lead Fullstack Engineer",
-      "url": "https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer",
+      "title": "The FTC puts off enforcing its 'click-to-cancel' rule",
+      "url": "https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule",
+      "score": "50 points",
+      "author": "speckx",
+      "comments": "1 hour ago"
+    },
+    {
+      "title": "Paul McCartney, Elton John and other creatives demand AI comes clean on scraping",
+      "url": "https://www.theregister.com/2025/05/12/uk_creatives_ai_letter/",
+      "score": "52 points",
+      "author": "rntn",
+      "comments": "1 hour ago"
+    },
+    {
+      "title": "A Typical Workday at a Japanese Hardware Tool Store [video]",
+      "url": "https://www.youtube.com/watch?v=A98jyfB5mws",
+      "score": "40 points",
+      "author": "Erikun",
+      "comments": "4 hours ago"
+    },
+    {
+      "title": "Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco",
+      "url": "https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack",
       "score": null,
       "author": null,
       "comments": null
     },
     {
-      "title": "Crowd Sourcing Broken QR Codes",
-      "url": "https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/",
-      "score": "56 points",
-      "author": "devmandan",
-      "comments": "7 hours ago"
+      "title": "US Copyright Office found AI companies breach copyright. Its boss was fired",
+      "url": "https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/",
+      "score": "210 points",
+      "author": "croes",
+      "comments": "4 hours ago"
     },
     {
-      "title": "Observations from people-watching",
-      "url": "https://skincontact.substack.com/p/21-observations-from-people-watching",
-      "score": "351 points",
-      "author": "jger15",
-      "comments": "17 hours ago"
+      "title": "Gig Companies Violate Workers Rights",
+      "url": "https://www.hrw.org/news/2025/05/12/us-major-companies-violate-gig-workers-rights",
+      "score": "37 points",
+      "author": "Improvement",
+      "comments": "1 hour ago"
     },
     {
-      "title": "Fan Service",
-      "url": "https://flak.tedunangst.com/post/fan-service",
-      "score": "125 points",
-      "author": "todsacerdoti",
-      "comments": "11 hours ago"
+      "title": "Implicit UVs: Real-time semi-global parameterization of implicit surfaces [pdf]",
+      "url": "https://baptiste-genest.github.io/papers/implicit_uvs.pdf",
+      "score": "19 points",
+      "author": "ibobev",
+      "comments": "3 hours ago"
     },
     {
-      "title": "Fandom sells gaming media brand Giant Bomb to long-term staff",
-      "url": "https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators",
-      "score": "172 points",
-      "author": "minimaxir",
-      "comments": "15 hours ago"
-    },
-    {
-      "title": "Dotless Domains",
-      "url": "https://lab.avl.la/dotless/",
-      "score": "149 points",
-      "author": "wibbily",
-      "comments": "14 hours ago"
-    },
-    {
-      "title": "US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]",
-      "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf",
-      "score": "387 points",
-      "author": "dave1629",
-      "comments": "1 day ago"
-    },
-    {
-      "title": "A brief history of the numeric keypad",
-      "url": "https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad",
-      "score": "46 points",
-      "author": "ThomPete",
-      "comments": "9 hours ago"
-    },
-    {
-      "title": "Sierpiński Triangle? In My Bitwise and?",
-      "url": "https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise",
-      "score": "184 points",
-      "author": "guiambros",
-      "comments": "17 hours ago"
-    },
-    {
-      "title": "One-Click RCE in Asus's Preinstalled Driver Software",
-      "url": "https://mrbruh.com/asusdriverhub/",
-      "score": "350 points",
-      "author": "MrBruh",
-      "comments": "9 hours ago"
-    },
-    {
-      "title": "For $595, you get what nobody else can give you for twice the price (1982) [pdf]",
-      "url": "https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf",
-      "score": "225 points",
-      "author": "indigodaddy",
-      "comments": "21 hours ago"
-    },
-    {
-      "title": "On thinkers and doers (2022)",
-      "url": "https://www.strangeloopcanon.com/p/on-thinkers-and-doers",
-      "score": "41 points",
-      "author": "andrewrn",
-      "comments": "9 hours ago"
-    },
-    {
-      "title": "A critical look at MCP",
-      "url": "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp",
-      "score": "528 points",
-      "author": "ablekh",
-      "comments": "1 day ago"
-    },
-    {
-      "title": "Absolute Zero: Reinforced Self-Play Reasoning with Zero Data",
-      "url": "https://arxiv.org/abs/2505.03335",
-      "score": "41 points",
-      "author": "leodriesch",
-      "comments": "8 hours ago"
-    },
-    {
-      "title": "Backdoor found in popular ecommerce components",
-      "url": "https://sansec.io/research/license-backdoor",
-      "score": "13 points",
-      "author": "mooreds",
+      "title": "CrowdStrike CEO Cuts His Voting Power by 92% with Unexplained Gifts",
+      "url": "https://www.bloomberg.com/news/articles/2025-05-12/billionaire-crowdstrike-ceo-cuts-voting-power-by-92-with-unexplained-gifts",
+      "score": "61 points",
+      "author": "wslh",
       "comments": "2 hours ago"
     },
     {
-      "title": "Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants",
-      "url": "https://github.com/blackrabbit17/xenolab",
-      "score": "116 points",
-      "author": "malux85",
-      "comments": "18 hours ago"
+      "title": "Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL",
+      "url": "https://www.primeintellect.ai/blog/intellect-2-release",
+      "score": "172 points",
+      "author": "Philpax",
+      "comments": "12 hours ago"
     },
     {
-      "title": "Engineers develop wearable heart attack detection technology",
-      "url": "https://medicalxpress.com/news/2025-04-wearable-heart-technology.html",
-      "score": "57 points",
-      "author": "PaulHoule",
-      "comments": "13 hours ago"
+      "title": "Continuous Thought Machines",
+      "url": "https://pub.sakana.ai/ctm/",
+      "score": "237 points",
+      "author": "hardmaru",
+      "comments": "12 hours ago"
     },
     {
-      "title": "Strain gauge made out of PCB",
-      "url": "https://github.com/vapetrov/PCB_strain_gauge",
-      "score": "86 points",
-      "author": "dr_coffee",
+      "title": "Armbian Updates: OMV support, boot improvents, Rockchip optimizations",
+      "url": "https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/",
+      "score": "43 points",
+      "author": "transpute",
+      "comments": "6 hours ago"
+    },
+    {
+      "title": "Making PyPI's test suite faster",
+      "url": "https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/",
+      "score": "101 points",
+      "author": "rbanffy",
+      "comments": "10 hours ago"
+    },
+    {
+      "title": "Continuous glucose monitors reveal variable glucose responses to the same meals",
+      "url": "https://examine.com/research-feed/study/1jjKq1/",
+      "score": "17 points",
+      "author": "Matrixik",
+      "comments": "3 hours ago"
+    },
+    {
+      "title": "Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps",
+      "url": "https://github.com/m-ahmed-elbeskeri/Starguard",
+      "score": "6 points",
+      "author": "artski",
+      "comments": "1 hour ago"
+    },
+    {
+      "title": "Why Bell Labs Worked",
+      "url": "https://1517.substack.com/p/why-bell-labs-worked",
+      "score": "268 points",
+      "author": "areoform",
       "comments": "17 hours ago"
     },
     {
-      "title": "What the hell are rare earth elements?",
-      "url": "https://media.hubspot.com/what-the-hell-are-rare-earth-elements",
-      "score": "8 points",
-      "author": "Anon84",
-      "comments": "3 hours ago"
+      "title": "Car companies are in a billion-dollar software war",
+      "url": "https://insideevs.com/features/759153/car-companies-software-companies/",
+      "score": "396 points",
+      "author": "rntn",
+      "comments": "20 hours ago"
+    },
+    {
+      "title": "Absolute Zero Reasoner",
+      "url": "https://andrewzh112.github.io/absolute-zero-reasoner/",
+      "score": "101 points",
+      "author": "jonbaer",
+      "comments": "14 hours ago"
+    },
+    {
+      "title": "High-school shop students attract skilled-trades job offers",
+      "url": "https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257",
+      "score": "228 points",
+      "author": "lxm",
+      "comments": "23 hours ago"
+    },
+    {
+      "title": "Scraperr – A Self Hosted Webscraper",
+      "url": "https://github.com/jaypyles/Scraperr",
+      "score": "223 points",
+      "author": "jpyles",
+      "comments": "20 hours ago"
+    },
+    {
+      "title": "Writing an LLM from scratch, part 13 – attention heads are dumb",
+      "url": "https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb",
+      "score": "317 points",
+      "author": "gpjt",
+      "comments": "1 day ago"
+    },
+    {
+      "title": "Ask HN: Cursor or Windsurf?",
+      "url": "item?id=43959710",
+      "score": "215 points",
+      "author": "skarat",
+      "comments": "9 hours ago"
+    },
+    {
+      "title": "The Academic Pipeline Stall: Why Industry Must Stand for Academia",
+      "url": "https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/",
+      "score": "135 points",
+      "author": "MaysonL",
+      "comments": "12 hours ago"
+    },
+    {
+      "title": "Title of work deciphered in sealed Herculaneum scroll via digital unwrapping",
+      "url": "https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping",
+      "score": "223 points",
+      "author": "namanyayg",
+      "comments": "1 day ago"
     }
   ],
   "performance_metrics": [
-    { "iteration": 1, "scraping_time": 0.014262199401855469 },
-    { "iteration": 2, "scraping_time": 0.006987810134887695 },
-    { "iteration": 3, "scraping_time": 0.008401632308959961 }
+    {
+      "iteration": 1,
+      "scraping_time": 0.01595379994250834
+    },
+    {
+      "iteration": 2,
+      "scraping_time": 0.007829500129446387
+    },
+    {
+      "iteration": 3,
+      "scraping_time": 0.006845500087365508
+    },
+    {
+      "iteration": 4,
+      "scraping_time": 0.0050270999781787395
+    },
+    {
+      "iteration": 5,
+      "scraping_time": 0.004694500006735325
+    },
+    {
+      "iteration": 6,
+      "scraping_time": 0.004741299897432327
+    },
+    {
+      "iteration": 7,
+      "scraping_time": 0.006161299999803305
+    },
+    {
+      "iteration": 8,
+      "scraping_time": 0.006593800149857998
+    },
+    {
+      "iteration": 9,
+      "scraping_time": 0.008659400045871735
+    },
+    {
+      "iteration": 10,
+      "scraping_time": 0.006457499926909804
+    },
+    {
+      "iteration": 11,
+      "scraping_time": 0.0061280999798327684
+    },
+    {
+      "iteration": 12,
+      "scraping_time": 0.005601499928161502
+    },
+    {
+      "iteration": 13,
+      "scraping_time": 0.006553499959409237
+    },
+    {
+      "iteration": 14,
+      "scraping_time": 0.00549059989862144
+    },
+    {
+      "iteration": 15,
+      "scraping_time": 0.004621000029146671
+    },
+    {
+      "iteration": 16,
+      "scraping_time": 0.004741000011563301
+    },
+    {
+      "iteration": 17,
+      "scraping_time": 0.004990600049495697
+    },
+    {
+      "iteration": 18,
+      "scraping_time": 0.0045622000470757484
+    },
+    {
+      "iteration": 19,
+      "scraping_time": 0.004844999872148037
+    },
+    {
+      "iteration": 20,
+      "scraping_time": 0.006053399993106723
+    },
+    {
+      "iteration": 21,
+      "scraping_time": 0.00582140008918941
+    },
+    {
+      "iteration": 22,
+      "scraping_time": 0.004814699990674853
+    },
+    {
+      "iteration": 23,
+      "scraping_time": 0.0048998999409377575
+    },
+    {
+      "iteration": 24,
+      "scraping_time": 0.004722899990156293
+    },
+    {
+      "iteration": 25,
+      "scraping_time": 0.005711900070309639
+    },
+    {
+      "iteration": 26,
+      "scraping_time": 0.005198900122195482
+    },
+    {
+      "iteration": 27,
+      "scraping_time": 0.005804699845612049
+    },
+    {
+      "iteration": 28,
+      "scraping_time": 0.004857700085267425
+    },
+    {
+      "iteration": 29,
+      "scraping_time": 0.0049674001056700945
+    },
+    {
+      "iteration": 30,
+      "scraping_time": 0.006378500023856759
+    },
+    {
+      "iteration": 31,
+      "scraping_time": 0.005141400033608079
+    },
+    {
+      "iteration": 32,
+      "scraping_time": 0.005448600044474006
+    },
+    {
+      "iteration": 33,
+      "scraping_time": 0.005747599992901087
+    },
+    {
+      "iteration": 34,
+      "scraping_time": 0.004938199883326888
+    },
+    {
+      "iteration": 35,
+      "scraping_time": 0.0060409000143408775
+    },
+    {
+      "iteration": 36,
+      "scraping_time": 0.004839499946683645
+    },
+    {
+      "iteration": 37,
+      "scraping_time": 0.00498389988206327
+    },
+    {
+      "iteration": 38,
+      "scraping_time": 0.0052229000721126795
+    },
+    {
+      "iteration": 39,
+      "scraping_time": 0.005948100006207824
+    },
+    {
+      "iteration": 40,
+      "scraping_time": 0.005264899926260114
+    },
+    {
+      "iteration": 41,
+      "scraping_time": 0.005233700154349208
+    },
+    {
+      "iteration": 42,
+      "scraping_time": 0.00464510009624064
+    },
+    {
+      "iteration": 43,
+      "scraping_time": 0.004635200137272477
+    },
+    {
+      "iteration": 44,
+      "scraping_time": 0.006897399900481105
+    },
+    {
+      "iteration": 45,
+      "scraping_time": 0.006185900187119842
+    },
+    {
+      "iteration": 46,
+      "scraping_time": 0.0050304001197218895
+    },
+    {
+      "iteration": 47,
+      "scraping_time": 0.00478949979878962
+    },
+    {
+      "iteration": 48,
+      "scraping_time": 0.004731500055640936
+    },
+    {
+      "iteration": 49,
+      "scraping_time": 0.005354899913072586
+    },
+    {
+      "iteration": 50,
+      "scraping_time": 0.005766699789091945
+    },
+    {
+      "iteration": 51,
+      "scraping_time": 0.005290200002491474
+    },
+    {
+      "iteration": 52,
+      "scraping_time": 0.0063056000508368015
+    },
+    {
+      "iteration": 53,
+      "scraping_time": 0.004849999910220504
+    },
+    {
+      "iteration": 54,
+      "scraping_time": 0.004691900219768286
+    },
+    {
+      "iteration": 55,
+      "scraping_time": 0.004831400001421571
+    },
+    {
+      "iteration": 56,
+      "scraping_time": 0.005709799937903881
+    },
+    {
+      "iteration": 57,
+      "scraping_time": 0.005640000104904175
+    },
+    {
+      "iteration": 58,
+      "scraping_time": 0.0063252998515963554
+    },
+    {
+      "iteration": 59,
+      "scraping_time": 0.005308100022375584
+    },
+    {
+      "iteration": 60,
+      "scraping_time": 0.0046190000139176846
+    },
+    {
+      "iteration": 61,
+      "scraping_time": 0.0047957999631762505
+    },
+    {
+      "iteration": 62,
+      "scraping_time": 0.005872900132089853
+    },
+    {
+      "iteration": 63,
+      "scraping_time": 0.006394499912858009
+    },
+    {
+      "iteration": 64,
+      "scraping_time": 0.006324700079858303
+    },
+    {
+      "iteration": 65,
+      "scraping_time": 0.004885599948465824
+    },
+    {
+      "iteration": 66,
+      "scraping_time": 0.004780499963089824
+    },
+    {
+      "iteration": 67,
+      "scraping_time": 0.004902299959212542
+    },
+    {
+      "iteration": 68,
+      "scraping_time": 0.005601299926638603
+    },
+    {
+      "iteration": 69,
+      "scraping_time": 0.004900600062683225
+    },
+    {
+      "iteration": 70,
+      "scraping_time": 0.006738999858498573
+    },
+    {
+      "iteration": 71,
+      "scraping_time": 0.005109200021252036
+    },
+    {
+      "iteration": 72,
+      "scraping_time": 0.004774199798703194
+    },
+    {
+      "iteration": 73,
+      "scraping_time": 0.0048009001184254885
+    },
+    {
+      "iteration": 74,
+      "scraping_time": 0.004718699958175421
+    },
+    {
+      "iteration": 75,
+      "scraping_time": 0.0046947000082582235
+    },
+    {
+      "iteration": 76,
+      "scraping_time": 0.005152700003236532
+    },
+    {
+      "iteration": 77,
+      "scraping_time": 0.004709300119429827
+    },
+    {
+      "iteration": 78,
+      "scraping_time": 0.004740600008517504
+    },
+    {
+      "iteration": 79,
+      "scraping_time": 0.004930800059810281
+    },
+    {
+      "iteration": 80,
+      "scraping_time": 0.005066099809482694
+    },
+    {
+      "iteration": 81,
+      "scraping_time": 0.004951699869707227
+    },
+    {
+      "iteration": 82,
+      "scraping_time": 0.005439399974420667
+    },
+    {
+      "iteration": 83,
+      "scraping_time": 0.005162200191989541
+    },
+    {
+      "iteration": 84,
+      "scraping_time": 0.004912500036880374
+    },
+    {
+      "iteration": 85,
+      "scraping_time": 0.004732900066301227
+    },
+    {
+      "iteration": 86,
+      "scraping_time": 0.004771200008690357
+    },
+    {
+      "iteration": 87,
+      "scraping_time": 0.006004800088703632
+    },
+    {
+      "iteration": 88,
+      "scraping_time": 0.004821799928322434
+    },
+    {
+      "iteration": 89,
+      "scraping_time": 0.005683799972757697
+    },
+    {
+      "iteration": 90,
+      "scraping_time": 0.005226500099524856
+    },
+    {
+      "iteration": 91,
+      "scraping_time": 0.004699400160461664
+    },
+    {
+      "iteration": 92,
+      "scraping_time": 0.004751600092276931
+    },
+    {
+      "iteration": 93,
+      "scraping_time": 0.004781299969181418
+    },
+    {
+      "iteration": 94,
+      "scraping_time": 0.0047039000783115625
+    },
+    {
+      "iteration": 95,
+      "scraping_time": 0.005230699898675084
+    },
+    {
+      "iteration": 96,
+      "scraping_time": 0.004799700109288096
+    },
+    {
+      "iteration": 97,
+      "scraping_time": 0.0046882000751793385
+    },
+    {
+      "iteration": 98,
+      "scraping_time": 0.005996699910610914
+    },
+    {
+      "iteration": 99,
+      "scraping_time": 0.0055311000905931
+    },
+    {
+      "iteration": 100,
+      "scraping_time": 0.00464149983599782
+    }
   ],
-  "averages": { "avg_scraping_time": 0.009883880615234375 },
-  "iterations": 3
+  "averages": {
+    "avg_scraping_time": 0.005455715004354715
+  },
+  "iterations": 100
 }

@@ -1,214 +1,620 @@
 {
   "data": [
     {
-      "title": "Title of work deciphered in sealed Herculaneum scroll via digital unwrapping",
-      "url": "https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping",
-      "score": "50 points",
-      "author": "namanyayg",
-      "comments": "1 hour ago"
-    },
-    {
-      "title": "The most valuable commodity in the world is friction",
-      "url": "https://kyla.substack.com/p/the-most-valuable-commodity-in-the",
-      "score": "56 points",
-      "author": "walterbell",
-      "comments": "3 hours ago"
-    },
-    {
-      "title": "Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse",
-      "url": "https://github.com/glassflow/clickhouse-etl",
-      "score": "31 points",
-      "author": "super_ar",
-      "comments": "2 hours ago"
-    },
-    {
-      "title": "The Epochalypse Project",
-      "url": "https://epochalypse-project.org/",
-      "score": "107 points",
-      "author": "maxeda",
+      "title": "I ruined my vacation by reverse engineering WSC",
+      "url": "https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/",
+      "score": "149 points",
+      "author": "todsacerdoti",
       "comments": "5 hours ago"
     },
     {
-      "title": "A Rust Documentation Ecosystem Review",
-      "url": "https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/",
-      "score": "39 points",
-      "author": "hyperbrainer",
-      "comments": "3 hours ago"
+      "title": "Plain Vanilla Web",
+      "url": "https://plainvanillaweb.com/index.html",
+      "score": "1039 points",
+      "author": "andrewrn",
+      "comments": "16 hours ago"
     },
     {
-      "title": "Gonzalo Guerrero",
-      "url": "https://en.wikipedia.org/wiki/Gonzalo_Guerrero",
-      "score": "4 points",
-      "author": "akkartik",
-      "comments": "43 minutes ago"
-    },
-    {
-      "title": "In 2025, venture capital can't pretend everything is fine any more",
-      "url": "https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/",
-      "score": "88 points",
-      "author": "namanyayg",
-      "comments": "1 hour ago"
-    },
-    {
-      "title": "An Introduction to Solid Queue for Ruby on Rails",
-      "url": "https://blog.appsignal.com/2025/05/07/an-introduction-to-solid-queue-for-ruby-on-rails.html",
-      "score": "61 points",
-      "author": "amalinovic",
-      "comments": "6 hours ago"
-    },
-    {
-      "title": "Is there a balance to be struck between simple hierarchical models and",
-      "url": "https://statmodeling.stat.columbia.edu/2024/05/26/is-there-a-balance-to-be-struck-between-simple-hierarchical-models-and-more-complex-hierarchical-models-that-augment-the-simple-frameworks-with-more-modeled-interactions-when-analyzing-real-data/",
-      "score": "7 points",
-      "author": "luu",
-      "comments": "2 hours ago"
-    },
-    {
-      "title": "Leaving Google",
-      "url": "https://www.airs.com/blog/archives/670",
-      "score": "207 points",
-      "author": "todsacerdoti",
-      "comments": "12 hours ago"
-    },
-    {
-      "title": "Four years of running a SaaS in a competitive market",
-      "url": "https://maxrozen.com/on-four-years-running-saas-competitive-market",
-      "score": "152 points",
-      "author": "mtlynch",
-      "comments": "3 hours ago"
-    },
-    {
-      "title": "Roame (YC S23) Is Hiring Lead Fullstack Engineer",
-      "url": "https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer",
-      "score": "56 points",
-      "author": "devmandan",
+      "title": "Continuous Thought Machines",
+      "url": "https://pub.sakana.ai/ctm/",
+      "score": "153 points",
+      "author": "hardmaru",
       "comments": "7 hours ago"
     },
     {
-      "title": "Crowd Sourcing Broken QR Codes",
-      "url": "https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/",
-      "score": "351 points",
-      "author": "jger15",
-      "comments": "17 hours ago"
+      "title": "Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL",
+      "url": "https://www.primeintellect.ai/blog/intellect-2-release",
+      "score": "112 points",
+      "author": "Philpax",
+      "comments": "7 hours ago"
     },
     {
-      "title": "Observations from people-watching",
-      "url": "https://skincontact.substack.com/p/21-observations-from-people-watching",
-      "score": "125 points",
-      "author": "todsacerdoti",
-      "comments": "11 hours ago"
+      "title": "Making PyPI's test suite 81% faster – The Trail of Bits Blog",
+      "url": "https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/",
+      "score": "51 points",
+      "author": "rbanffy",
+      "comments": "5 hours ago"
     },
     {
-      "title": "Fan Service",
-      "url": "https://flak.tedunangst.com/post/fan-service",
-      "score": "172 points",
-      "author": "minimaxir",
+      "title": "Why Bell Labs Worked",
+      "url": "https://1517.substack.com/p/why-bell-labs-worked",
+      "score": "201 points",
+      "author": "areoform",
+      "comments": "12 hours ago"
+    },
+    {
+      "title": "Car companies are in a billion-dollar software war",
+      "url": "https://insideevs.com/features/759153/car-companies-software-companies/",
+      "score": "331 points",
+      "author": "rntn",
       "comments": "15 hours ago"
     },
     {
-      "title": "Fandom sells gaming media brand Giant Bomb to long-term staff",
-      "url": "https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators",
-      "score": "149 points",
-      "author": "wibbily",
-      "comments": "14 hours ago"
-    },
-    {
-      "title": "Dotless Domains",
-      "url": "https://lab.avl.la/dotless/",
-      "score": "387 points",
-      "author": "dave1629",
-      "comments": "1 day ago"
-    },
-    {
-      "title": "US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]",
-      "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf",
-      "score": "46 points",
-      "author": "ThomPete",
+      "title": "Absolute Zero Reasoner",
+      "url": "https://andrewzh112.github.io/absolute-zero-reasoner/",
+      "score": "72 points",
+      "author": "jonbaer",
       "comments": "9 hours ago"
     },
     {
-      "title": "A brief history of the numeric keypad",
-      "url": "https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad",
-      "score": "184 points",
-      "author": "guiambros",
+      "title": "Ask HN: Cursor or Windsurf?",
+      "url": "item?id=43959710",
+      "score": "118 points",
+      "author": "skarat",
+      "comments": "4 hours ago"
+    },
+    {
+      "title": "The Academic Pipeline Stall: Why Industry Must Stand for Academia",
+      "url": "https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/",
+      "score": "91 points",
+      "author": "MaysonL",
+      "comments": "6 hours ago"
+    },
+    {
+      "title": "High-school shop students attract skilled-trades job offers",
+      "url": "https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257",
+      "score": "187 points",
+      "author": "lxm",
       "comments": "17 hours ago"
     },
     {
-      "title": "Sierpiński Triangle? In My Bitwise and?",
-      "url": "https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise",
-      "score": "350 points",
-      "author": "MrBruh",
-      "comments": "9 hours ago"
+      "title": "Show HN: Codigo – The Programming Language Repository",
+      "url": "https://codigolangs.com",
+      "score": "32 points",
+      "author": "adamjhf",
+      "comments": "7 hours ago"
+    },
+    {
+      "title": "Scraperr – A Self Hosted Webscraper",
+      "url": "https://github.com/jaypyles/Scraperr",
+      "score": "181 points",
+      "author": "jpyles",
+      "comments": "14 hours ago"
+    },
+    {
+      "title": "Writing an LLM from scratch, part 13 – attention heads are dumb",
+      "url": "https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb",
+      "score": "268 points",
+      "author": "gpjt",
+      "comments": "19 hours ago"
+    },
+    {
+      "title": "White House fires head of Copyright Office amid Library of Congress shakeup",
+      "url": "https://www.washingtonpost.com/politics/2025/05/11/white-house-copyright-office-director-fired/",
+      "score": "23 points",
+      "author": "handfuloflight",
+      "comments": "1 hour ago"
+    },
+    {
+      "title": "Title of work deciphered in sealed Herculaneum scroll via digital unwrapping",
+      "url": "https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping",
+      "score": "211 points",
+      "author": "namanyayg",
+      "comments": "19 hours ago"
+    },
+    {
+      "title": "LSP client in Clojure in 200 lines of code",
+      "url": "https://vlaaad.github.io/lsp-client-in-200-lines-of-code",
+      "score": "139 points",
+      "author": "vlaaad",
+      "comments": "15 hours ago"
     },
     {
       "title": "One-Click RCE in Asus's Preinstalled Driver Software",
       "url": "https://mrbruh.com/asusdriverhub/",
-      "score": "225 points",
-      "author": "indigodaddy",
-      "comments": "21 hours ago"
-    },
-    {
-      "title": "For $595, you get what nobody else can give you for twice the price (1982) [pdf]",
-      "url": "https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf",
-      "score": "41 points",
-      "author": "andrewrn",
-      "comments": "9 hours ago"
-    },
-    {
-      "title": "On thinkers and doers (2022)",
-      "url": "https://www.strangeloopcanon.com/p/on-thinkers-and-doers",
-      "score": "528 points",
-      "author": "ablekh",
+      "score": "461 points",
+      "author": "MrBruh",
       "comments": "1 day ago"
     },
     {
-      "title": "A critical look at MCP",
-      "url": "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp",
-      "score": "41 points",
-      "author": "leodriesch",
-      "comments": "8 hours ago"
-    },
-    {
-      "title": "Absolute Zero: Reinforced Self-Play Reasoning with Zero Data",
-      "url": "https://arxiv.org/abs/2505.03335",
-      "score": "13 points",
-      "author": "mooreds",
-      "comments": "2 hours ago"
-    },
-    {
-      "title": "Backdoor found in popular ecommerce components",
-      "url": "https://sansec.io/research/license-backdoor",
-      "score": "116 points",
-      "author": "malux85",
-      "comments": "18 hours ago"
-    },
-    {
-      "title": "Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants",
-      "url": "https://github.com/blackrabbit17/xenolab",
-      "score": "57 points",
-      "author": "PaulHoule",
+      "title": "Burrito Now, Pay Later",
+      "url": "https://enterprisevalue.substack.com/p/burrito-now-pay-later",
+      "score": "132 points",
+      "author": "gwintrob",
       "comments": "13 hours ago"
     },
     {
-      "title": "Engineers develop wearable heart attack detection technology",
-      "url": "https://medicalxpress.com/news/2025-04-wearable-heart-technology.html",
+      "title": "ToyDB rewritten: a distributed SQL database in Rust, for education",
+      "url": "https://github.com/erikgrinaker/toydb",
       "score": "86 points",
-      "author": "dr_coffee",
-      "comments": "17 hours ago"
+      "author": "erikgrinaker",
+      "comments": "13 hours ago"
     },
     {
-      "title": "Strain gauge made out of PCB",
-      "url": "https://github.com/vapetrov/PCB_strain_gauge",
-      "score": "8 points",
-      "author": "Anon84",
-      "comments": "3 hours ago"
+      "title": "Dart added support for cross-compilation",
+      "url": "https://dart.dev/tools/dart-compile#cross-compilation-exe",
+      "score": "5 points",
+      "author": "Alifatisk",
+      "comments": "2 hours ago"
+    },
+    {
+      "title": "I hacked my clock to control my focus",
+      "url": "https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/",
+      "score": "75 points",
+      "author": "rcarmo",
+      "comments": "10 hours ago"
+    },
+    {
+      "title": "3D printing in vivo for non-surgical implants and drug delivery",
+      "url": "https://www.science.org/doi/10.1126/science.adt0293",
+      "score": "19 points",
+      "author": "Phreaker00",
+      "comments": "8 hours ago"
+    },
+    {
+      "title": "The most valuable commodity in the world is friction",
+      "url": "https://kyla.substack.com/p/the-most-valuable-commodity-in-the",
+      "score": "206 points",
+      "author": "walterbell",
+      "comments": "21 hours ago"
+    },
+    {
+      "title": "Avoiding AI is hard – but our freedom to opt out must be protected",
+      "url": "https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873",
+      "score": "155 points",
+      "author": "gnabgib",
+      "comments": "9 hours ago"
+    },
+    {
+      "title": "A simple 16x16 dot animation from simple math rules",
+      "url": "https://tixy.land",
+      "score": "442 points",
+      "author": "andrewrn",
+      "comments": "2 days ago"
+    },
+    {
+      "title": "Lazarus Release 4.0",
+      "url": "https://forum.lazarus.freepascal.org/index.php?topic=71050.0",
+      "score": "230 points",
+      "author": "proxysna",
+      "comments": "1 day ago"
+    },
+    {
+      "title": "The Epochalypse Project",
+      "url": "https://epochalypse-project.org/",
+      "score": "184 points",
+      "author": "maxeda",
+      "comments": "23 hours ago"
+    },
+    {
+      "title": "An online exhibition of pretty software bugs",
+      "url": "https://glitchgallery.org/",
+      "score": "96 points",
+      "author": "tobr",
+      "comments": "15 hours ago"
+    },
+    {
+      "title": "I built a native Windows Todo app in pure C (278 KB, no frameworks)",
+      "url": "https://github.com/Efeckc17/simple-todo-c",
+      "score": "325 points",
+      "author": "toxi360",
+      "comments": "17 hours ago"
     }
   ],
   "performance_metrics": [
-    { "iteration": 1, "scraping_time": 0.017019987106323242 },
-    { "iteration": 2, "scraping_time": 0.007999897003173828 },
-    { "iteration": 3, "scraping_time": 0.006003141403198242 }
+    {
+      "iteration": 1,
+      "scraping_time": 0.01827519992366433
+    },
+    {
+      "iteration": 2,
+      "scraping_time": 0.00903599988669157
+    },
+    {
+      "iteration": 3,
+      "scraping_time": 0.00859070010483265
+    },
+    {
+      "iteration": 4,
+      "scraping_time": 0.007777899969369173
+    },
+    {
+      "iteration": 5,
+      "scraping_time": 0.007610599976032972
+    },
+    {
+      "iteration": 6,
+      "scraping_time": 0.0073998000007122755
+    },
+    {
+      "iteration": 7,
+      "scraping_time": 0.007299100048840046
+    },
+    {
+      "iteration": 8,
+      "scraping_time": 0.007150999968871474
+    },
+    {
+      "iteration": 9,
+      "scraping_time": 0.007246199995279312
+    },
+    {
+      "iteration": 10,
+      "scraping_time": 0.0069410998839885
+    },
+    {
+      "iteration": 11,
+      "scraping_time": 0.006752100074663758
+    },
+    {
+      "iteration": 12,
+      "scraping_time": 0.006868999917060137
+    },
+    {
+      "iteration": 13,
+      "scraping_time": 0.00682440004311502
+    },
+    {
+      "iteration": 14,
+      "scraping_time": 0.006875100079923868
+    },
+    {
+      "iteration": 15,
+      "scraping_time": 0.006752900080755353
+    },
+    {
+      "iteration": 16,
+      "scraping_time": 0.006905299844220281
+    },
+    {
+      "iteration": 17,
+      "scraping_time": 0.006785899866372347
+    },
+    {
+      "iteration": 18,
+      "scraping_time": 0.006734100170433521
+    },
+    {
+      "iteration": 19,
+      "scraping_time": 0.006902199937030673
+    },
+    {
+      "iteration": 20,
+      "scraping_time": 0.006699000019580126
+    },
+    {
+      "iteration": 21,
+      "scraping_time": 0.007038000039756298
+    },
+    {
+      "iteration": 22,
+      "scraping_time": 0.007067699916660786
+    },
+    {
+      "iteration": 23,
+      "scraping_time": 0.007222100161015987
+    },
+    {
+      "iteration": 24,
+      "scraping_time": 0.00670409994199872
+    },
+    {
+      "iteration": 25,
+      "scraping_time": 0.007126200012862682
+    },
+    {
+      "iteration": 26,
+      "scraping_time": 0.00673400005325675
+    },
+    {
+      "iteration": 27,
+      "scraping_time": 0.006692999973893166
+    },
+    {
+      "iteration": 28,
+      "scraping_time": 0.007370600011199713
+    },
+    {
+      "iteration": 29,
+      "scraping_time": 0.006949200062081218
+    },
+    {
+      "iteration": 30,
+      "scraping_time": 0.007358600152656436
+    },
+    {
+      "iteration": 31,
+      "scraping_time": 0.006779799936339259
+    },
+    {
+      "iteration": 32,
+      "scraping_time": 0.006677399855107069
+    },
+    {
+      "iteration": 33,
+      "scraping_time": 0.00665390002541244
+    },
+    {
+      "iteration": 34,
+      "scraping_time": 0.006632500095292926
+    },
+    {
+      "iteration": 35,
+      "scraping_time": 0.007786700036376715
+    },
+    {
+      "iteration": 36,
+      "scraping_time": 0.007302700076252222
+    },
+    {
+      "iteration": 37,
+      "scraping_time": 0.008740999968722463
+    },
+    {
+      "iteration": 38,
+      "scraping_time": 0.007121399976313114
+    },
+    {
+      "iteration": 39,
+      "scraping_time": 0.007930600084364414
+    },
+    {
+      "iteration": 40,
+      "scraping_time": 0.007123899878934026
+    },
+    {
+      "iteration": 41,
+      "scraping_time": 0.007395500084385276
+    },
+    {
+      "iteration": 42,
+      "scraping_time": 0.0070282998494803905
+    },
+    {
+      "iteration": 43,
+      "scraping_time": 0.007239599945023656
+    },
+    {
+      "iteration": 44,
+      "scraping_time": 0.006990700028836727
+    },
+    {
+      "iteration": 45,
+      "scraping_time": 0.007181099848821759
+    },
+    {
+      "iteration": 46,
+      "scraping_time": 0.006749700056388974
+    },
+    {
+      "iteration": 47,
+      "scraping_time": 0.006816199980676174
+    },
+    {
+      "iteration": 48,
+      "scraping_time": 0.0074238998349756
+    },
+    {
+      "iteration": 49,
+      "scraping_time": 0.007034600013867021
+    },
+    {
+      "iteration": 50,
+      "scraping_time": 0.007011799840256572
+    },
+    {
+      "iteration": 51,
+      "scraping_time": 0.00726590002886951
+    },
+    {
+      "iteration": 52,
+      "scraping_time": 0.00812199991196394
+    },
+    {
+      "iteration": 53,
+      "scraping_time": 0.007459099870175123
+    },
+    {
+      "iteration": 54,
+      "scraping_time": 0.007419500034302473
+    },
+    {
+      "iteration": 55,
+      "scraping_time": 0.007374800043180585
+    },
+    {
+      "iteration": 56,
+      "scraping_time": 0.007797800004482269
+    },
+    {
+      "iteration": 57,
+      "scraping_time": 0.007034299895167351
+    },
+    {
+      "iteration": 58,
+      "scraping_time": 0.007011899957433343
+    },
+    {
+      "iteration": 59,
+      "scraping_time": 0.006930500036105514
+    },
+    {
+      "iteration": 60,
+      "scraping_time": 0.009827099973335862
+    },
+    {
+      "iteration": 61,
+      "scraping_time": 0.00699599995277822
+    },
+    {
+      "iteration": 62,
+      "scraping_time": 0.007257499964907765
+    },
+    {
+      "iteration": 63,
+      "scraping_time": 0.00676360004581511
+    },
+    {
+      "iteration": 64,
+      "scraping_time": 0.006711499998345971
+    },
+    {
+      "iteration": 65,
+      "scraping_time": 0.007077299989759922
+    },
+    {
+      "iteration": 66,
+      "scraping_time": 0.0067390999756753445
+    },
+    {
+      "iteration": 67,
+      "scraping_time": 0.00727760000154376
+    },
+    {
+      "iteration": 68,
+      "scraping_time": 0.0076570999808609486
+    },
+    {
+      "iteration": 69,
+      "scraping_time": 0.0070418999530375
+    },
+    {
+      "iteration": 70,
+      "scraping_time": 0.007020700024440885
+    },
+    {
+      "iteration": 71,
+      "scraping_time": 0.0068789999932050705
+    },
+    {
+      "iteration": 72,
+      "scraping_time": 0.00678989989683032
+    },
+    {
+      "iteration": 73,
+      "scraping_time": 0.007726800162345171
+    },
+    {
+      "iteration": 74,
+      "scraping_time": 0.00679020001552999
+    },
+    {
+      "iteration": 75,
+      "scraping_time": 0.007191700162366033
+    },
+    {
+      "iteration": 76,
+      "scraping_time": 0.007720200112089515
+    },
+    {
+      "iteration": 77,
+      "scraping_time": 0.006721199955791235
+    },
+    {
+      "iteration": 78,
+      "scraping_time": 0.007279800018295646
+    },
+    {
+      "iteration": 79,
+      "scraping_time": 0.0067200998309999704
+    },
+    {
+      "iteration": 80,
+      "scraping_time": 0.007216800004243851
+    },
+    {
+      "iteration": 81,
+      "scraping_time": 0.006896700011566281
+    },
+    {
+      "iteration": 82,
+      "scraping_time": 0.006755599984899163
+    },
+    {
+      "iteration": 83,
+      "scraping_time": 0.007011499954387546
+    },
+    {
+      "iteration": 84,
+      "scraping_time": 0.006938599981367588
+    },
+    {
+      "iteration": 85,
+      "scraping_time": 0.006868600146844983
+    },
+    {
+      "iteration": 86,
+      "scraping_time": 0.006876199971884489
+    },
+    {
+      "iteration": 87,
+      "scraping_time": 0.007110600126907229
+    },
+    {
+      "iteration": 88,
+      "scraping_time": 0.006675600074231625
+    },
+    {
+      "iteration": 89,
+      "scraping_time": 0.006739300210028887
+    },
+    {
+      "iteration": 90,
+      "scraping_time": 0.0066242998000234365
+    },
+    {
+      "iteration": 91,
+      "scraping_time": 0.00666119996458292
+    },
+    {
+      "iteration": 92,
+      "scraping_time": 0.006863099988549948
+    },
+    {
+      "iteration": 93,
+      "scraping_time": 0.006765799829736352
+    },
+    {
+      "iteration": 94,
+      "scraping_time": 0.00757280015386641
+    },
+    {
+      "iteration": 95,
+      "scraping_time": 0.006863599875941873
+    },
+    {
+      "iteration": 96,
+      "scraping_time": 0.0072888999711722136
+    },
+    {
+      "iteration": 97,
+      "scraping_time": 0.00701959989964962
+    },
+    {
+      "iteration": 98,
+      "scraping_time": 0.006657799938693643
+    },
+    {
+      "iteration": 99,
+      "scraping_time": 0.006597999949008226
+    },
+    {
+      "iteration": 100,
+      "scraping_time": 0.006606200011447072
+    }
   ],
-  "averages": { "avg_scraping_time": 0.010341008504231771 },
-  "iterations": 3
+  "averages": {
+    "avg_scraping_time": 0.007245272991713137
+  },
+  "iterations": 100
 }

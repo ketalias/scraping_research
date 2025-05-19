@@ -7,27 +7,22 @@ class HNCSSSpider(scrapy.Spider):
     start_urls = ['https://news.ycombinator.com/']
 
     def parse(self, response):
-        iterations = 3
+        iterations = 100  # Як у scrape_books_bs4
         data = []
         performance_metrics = []
 
         for i in range(iterations):
-            start_time = time.time()
-
-            items = response.css('tr.athing')
+            start_time = time.perf_counter()  # Початок заміру (включає ініціалізацію)
+            items = response.css('tr.athing')  # Ініціалізація селекторів
             subtext_rows = response.css('td.subtext span.subline')
-            
             for index, item in enumerate(items):
                 title = item.css('span.titleline a::text').get()
                 url = item.css('span.titleline a::attr(href)').get()
-                if index >= len(subtext_rows):
-                    continue
                 subtext = subtext_rows[index]
                 score = subtext.css('span.score::text').get()
                 author = subtext.css('a.hnuser::text').get()
                 comments = subtext.css('a:last-child::text').get()
-
-                if i == 0:
+                if i == 0:  # Збирати дані тільки для першої ітерації
                     data.append({
                         'title': title,
                         'url': url,
@@ -35,10 +30,8 @@ class HNCSSSpider(scrapy.Spider):
                         'author': author,
                         'comments': comments
                     })
-
-            end_time = time.time()
-
-            adjusted_time = (end_time - start_time)
+            end_time = time.perf_counter()  # Кінець заміру
+            adjusted_time = end_time - start_time
             performance_metrics.append({
                 'iteration': i + 1,
                 'scraping_time': adjusted_time
@@ -50,8 +43,6 @@ class HNCSSSpider(scrapy.Spider):
             json.dump({
                 'data': data,
                 'performance_metrics': performance_metrics,
-                'averages': {
-                    'avg_scraping_time': avg_time
-                },
+                'averages': {'avg_scraping_time': avg_time},
                 'iterations': iterations
-            }, f, ensure_ascii=False)
+            }, f, ensure_ascii=False, indent=2)
